@@ -62,4 +62,3 @@ const selectSpan = (tag) => {
 const unselectSpan = (tag) => {
   tag.classList.remove("highlight");
 };
-// some comments
